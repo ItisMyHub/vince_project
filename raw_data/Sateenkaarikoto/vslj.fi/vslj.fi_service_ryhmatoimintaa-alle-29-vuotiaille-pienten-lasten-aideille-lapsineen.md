@@ -1,0 +1,3 @@
+https://vslj.fi/service/ryhmatoimintaa-alle-29-vuotiaille-pienten-lasten-aideille-lapsineen/
+
+Ammatillisesti ohjatussa ryhmätoiminnassa saat ammatillista tukea, ohjausta ja neuvontaa. Ryhmässä sinulla on mahdollisuus antaa ja saada vertaistukea kun vietät aikaa toisten nuorten äitien ja heidän pienten lastensa kanssa.Ryhmätoimintaa nuorille äideille ja heidän pienille lapsille.turvallisempi tila,kulttuurisensitiivisyys

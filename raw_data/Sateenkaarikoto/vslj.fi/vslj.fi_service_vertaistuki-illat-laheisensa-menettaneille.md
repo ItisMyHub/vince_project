@@ -1,0 +1,3 @@
+https://vslj.fi/service/vertaistuki-illat-laheisensa-menettaneille/
+
+Jos olet menettänyt läheisen, voit osallistua MIELI Kriisikeskus Turun Feeniks-työn järjestämiin avoimiin vertaisuuteen perustuviin tilaisuuksiin. Jos olet puolison tai lapsen menettänyt mies, voit osallistua Läheisen menettäneet miehet -iltoihin. Jos olet menettänyt lapsen tai lapsenlapsen, voit tulla keskusteluiltoihin lapsensa menettäneille. Jos sinulla on kuollut sisko tai veli tai läheinen ystävä, voit osallistua Valoa kevääseen ja Valoa syksyyn -iltoihin aikuisille sisaruksen menettäneille. Menetyksestäsi voi olla kulunut lyhyt tai pitkä aika. Iltojen tarkoituksena on tarjota kokemuksia vertaisuudesta ja selviytymisestä.Erilaisia vertaistukiryhmiä läheisensä menettäneille

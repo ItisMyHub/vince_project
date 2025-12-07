@@ -1,0 +1,3 @@
+https://vslj.fi/service/apua-laheisen-menettaneille/
+
+Jos olet kokenut läheisen kuoleman, voit saada lyhytaikaista keskusteluapua (1-10 tapaamista). Voit varata ajan keskusteluapuun surun akuutissa vaiheessa tai vaikka menetyksestä olisi kulunut pitkä aika, esimerkiksi kuukausia tai monia vuosia. Voit hakeutua keskusteluapuun yksin tai yhdessä perheenjäsenen tai perheenjäsenten kanssa. Keskusteluavun tarkoituksena on auttaa sinua selviytymään menetyksen aiheuttamasta kriisistä. Voit saada keskusteluapua myös etävastaanottona.Lyhytaikaista keskusteluapua läheisen menettäneille

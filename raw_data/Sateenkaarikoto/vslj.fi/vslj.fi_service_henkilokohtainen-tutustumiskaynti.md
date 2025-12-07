@@ -1,0 +1,3 @@
+https://vslj.fi/service/henkilokohtainen-tutustumiskaynti/
+
+Henkilökohtainen tutustumiskäynti on maksuton noin tunnin mittainen tapaaminen yhdistyksen toiminnanohjaajien kanssa, jossa voidaan jutella kaikista syömishäiriöön liittyvistä asioista. Tutustumiskäynnillä käynti ei sido mitenkään yhdistyksen muuhun toimintaan. Tutustumiskäynnillä ei anneta ravitsemusneuvontaa, terapiaa tai muuta terveydenhuollon piiriin liittyvää ohjausta kuten lääkityksiin liittyvää ohjausta. Voit varata henkilökohtaisen tutustumiskäynnin ja tavata työntekijöitämme joko kasvokkain tai etänä.

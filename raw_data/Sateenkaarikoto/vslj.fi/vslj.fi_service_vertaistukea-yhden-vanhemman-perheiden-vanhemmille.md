@@ -1,0 +1,3 @@
+https://vslj.fi/service/vertaistukea-yhden-vanhemman-perheiden-vanhemmille/
+
+Vanhempien olohuoneissa eli vertaistukiryhmissä sekä jäsenyhdistyksissämme saat tukea omaan vanhemmuuteensa. Ryhmiä on erovanhemmille, yksinhuoltajille ja yhden vanhemman perheiden vanhemmille. Olohuoneillat ovat ilmaisia ja ne kokoontuvat useilla eri paikkakunnilla. Yhdistyksiämme toimii ympäri Suomea.Saat vertaistukea ympäri maan jäsenyhdistysten tarjoamissa vertaistukiryhmissä. Ryhmät ovat kaikille yhden vanhemman perheiden vanhemmille.erovanhemmuus,vuorovanhemmuus,eronnut

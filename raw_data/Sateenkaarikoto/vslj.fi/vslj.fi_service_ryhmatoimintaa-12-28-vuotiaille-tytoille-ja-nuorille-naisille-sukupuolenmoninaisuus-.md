@@ -1,0 +1,3 @@
+https://vslj.fi/service/ryhmatoimintaa-12-28-vuotiaille-tytoille-ja-nuorille-naisille-sukupuolenmoninaisuus-huomioiden/
+
+Ryhmätoiminnassa voit osallistua vertaistuelliseen, harraste- tai kasvuryhmään oman mielenkiintosi ja tarpeidesi mukaan. Voit myös esittää omia toiveitasi erilaisista ryhmistä.Ryhmätoimintaa on vertaistuki-, harraste-, ja kasvuryhminä. Ryhmätoimintaa on tarjolla nuorten tarpeiden ja toiveiden mukaan.

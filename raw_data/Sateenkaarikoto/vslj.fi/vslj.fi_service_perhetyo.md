@@ -1,0 +1,3 @@
+https://vslj.fi/service/perhetyo/
+
+Perhetyössä saat ohjausta ja neuvontaa arkipäivän elämään. Saat mm. keskusteluapua lasten kasvatukseen ja vanhemmuuteen liittyen sekä tukea arjenhallintaan. Perhetyön avulla halutaan vahvistaa perheenne omia voimavaroja ja tukea perheenjäsenten välistä vuorovaikutusta.Perhetyö on tukitoimi perheille kotiin. Perhetyön avulla vanhempia tuetaan heidän kasvatustehtävässään.

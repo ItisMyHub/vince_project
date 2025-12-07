@@ -1,0 +1,3 @@
+https://vslj.fi/service/netari/
+
+Pelastakaa Lasten nettinuorisotalo Netarissa tarjolla tukea ja turvallisia tiloja. Netari.fi nuori voi viettää aikaa toisten nuorten ja turvallisten aikuisten kanssa eri digialustoilla, kuten Discordissa ja Twitchissa. Nuori voi keskustella kahden kesken luotettavien aikuisten kanssa Whatsappissa ja TikTokissa.Netari tarjoaa nuorille tukea ja toimintaa digitaalisissa ympäristöissä

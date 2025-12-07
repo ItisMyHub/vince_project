@@ -1,0 +1,3 @@
+https://vslj.fi/service/yhden-vanhemman-perheiden-vanhempien-vertaistukiryhmat/
+
+Ympäri Suomen sijaitsevat vertaistukiryhmät antavat tukea yhden vanhemman perheiden vanhemmille. Voit osallistua ryhmään ilmaiseksi. Ryhmiä vetävät liiton tai liiton jäsenyhdistysten vapaaehtoiset. Ryhmät ovat avoimia kaikille yhden vanhemman perheiden vanhemmille. Joissakin on tarjottu myös lastenhoito. Yhden vanhemman perheiden vertaistukiryhmissä tapaat muita samassa tilanteessa olevia, saat vertaistukea ja yhteisön ympärillesi.lähihuoltaja,erovanhemmuus,itsellinen vanhemmuus,vuoroviikkovanhemmuus,yksinhuoltaja

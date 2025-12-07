@@ -1,0 +1,5 @@
+https://vslj.fi/service/avoin-kohtaamispaikka-marakatin-perhekahvila-ja-muu-perhetoiminta/
+
+Marakatin perhekahvilaan voit tulla lasten kanssa leikkimään ja juttelemaan muiden vanhempien kanssa matalalla kynnyksellä. Voit tulla kaikenikäisten lasten kanssa. Marakatin vauvakahvila on suunnattu erityisesti vauvoille ja siellä parhaiten tapaa muita vauvoja ja vauvojen vanhempia. Paikalla on perhekahvilaohjaaja/-ohjaajia, joiden kanssa voi myös jutella. Lapset ovat vanhemman vastuulla perhekahvilassa.
+
+Perhekahvilassa on oma ohjelmansa, johon sisältyy esimerkiksi askartelua ja laululeikkejä. Marakatissa pääset myös välillä osallistumaan erilaisiin lapsiperheiden tapahtumiin. Marakatissa kokoontuu myös vauva- ja perhemuskarit, Vauvatreffit sekä erilaisia vertaistukiryhmiä. Lisätietoa näistä saat paikan päältä, MLL:n Varsinais-Suomen piirin nettisivuilta sekä Marakatin Facebook-sivulta.Marakatin perhekahvilaan voit tulla lasten kanssa leikkimään ja juttelemaan muiden vanhempien kanssa matalalla kynnyksellä.Vauvakahvila,Perhekeskus,Avoin kohtaamispaikka,Perhekahvila,Perhekahvilatoiminta,Perhetoiminta

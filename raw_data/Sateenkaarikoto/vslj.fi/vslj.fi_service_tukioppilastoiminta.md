@@ -1,0 +1,5 @@
+https://vslj.fi/service/tukioppilastoiminta/
+
+MLL kouluttaa tukioppilaita ympäri Varsinais-Suomea, jolloin voit toimia yläkoulussasi vapaaehtoisena tukioppilaana eli olet mukana parantamassa koulun ilmapiiriä ja autat muita oppilaita. Tukioppilaana neuvot uusia oppilaita, järjestät tapahtumia, pidät oppitunteja ja huolehdit siitä, ettei kukaan jäisi koulussa yksin. Toimit yhdessä muiden tukioppilaiden kanssa ja apunasi on koulusi tukioppilasohjaaja. Tukioppilastoimintaa voit tehdä myös verkossa verkk@rina eli verkkotukioppilaana.
+
+Tukioppilaana toimimisesta on mahdollista saada todistus. Todistuksen voit myös saada tukioppilaan koulutuksesta. Todistus on tärkeä tunnustus ja kiitos tukioppilaana toimimisesta. Todistuksesta voi olla sinulle hyötyä, kun haet kesätöitä tai jatko-opiskelupaikkaa. Todistuksilla on myös iso merkitys oman aktiivisuuden ja osallistumisen osoittajana. MLL kouluttaa vapaaehtoisia tukioppilaita. Tukioppilaana olet mukana parantamassa koulun ilmapiiriä ja autat muita oppilaita.tukioppilastoiminta,tukioppilas

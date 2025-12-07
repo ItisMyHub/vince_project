@@ -1,0 +1,5 @@
+https://vslj.fi/service/sururyhmat/
+
+Jos olet menettänyt lapsen tai lapsenlapsen tai olet menettänyt sisaruksen voit osallistua vertaistukeen perustuvaan sururyhmään lapsen menettäneille tai aikuisille sisaruksen menettäneille. Kyse voi olla pienen lapsen, nuoren tai aikuisen lapsen tai sisaruksen kuolemasta. Sururyhmät ovat suljettuja, eli ne kokoontuvat tietyn ennalta sovitun ajan, ja osallistujat sitoutuvat olemaan mukana alusta loppuun. Voit hakeutua sururyhmään, kun menetyksestäsi on kulunut vähintään noin puoli vuotta ja psyykkinen vointisi on riittävän hyvä, jotta pystyt olemaan mukana ryhmässä. Ryhmiä ohjaavat ryhmänohjaajakoulutetut vapaaehtoiset vertaistukihenkilöt. Ryhmistä vastaava työntekijä tutustuu haastattelussa etukäteen jokaiseen ryhmästä kiinnostuneeseen. Haastattelussa voit yhdessä työntekijän
+
+kanssa miettiä, sopiiko ryhmään osallistuminen sinulle, tai onko jokin toinen tuen muoto sinulle tässä vaiheessa sopivampi. Sururyhmän tarkoituksena on auttaa sinua selviytymään menetyksesi kanssa.Vertaistukiryhmä lapsen tai lapsenlapsen menettäneille ja vertaistukiryhmä aikuisille sisaruksen menettäneille

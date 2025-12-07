@@ -1,0 +1,3 @@
+https://vslj.fi/service/valtakunnallinen-isamedia/
+
+Isille.info verkkosivulta löydät tietoa ja vinkkejä arjen isyyden erilaisista vaiheista. Sivulta löydät myös apua ja tukea isyyden haasteissa. Isyyteen liittyvää tietoa kerätään verkosta ja sivusto kokoaa aiheeseen liittyviä ajankohtaisia artikkeleita, tutkimuksia, tapahtumia, hankkeita ja linkkejä. Isille.info verkkosivulta löydät tietoa ja vinkkejä arjen isyyden erilaisista vaiheista. Sivulta löydät myös apua ja tukea isyyden haasteissa.isoisä,iskä,isi,isä

@@ -1,0 +1,3 @@
+https://vslj.fi/service/ylitse-mentorapp/
+
+Ylitse Mentorapp on ilmaiseksi käytettävä palvelu, jolla etsit itsellesi sopivaa, pitkäaikaistakin mentoria hakusanojen perusteella. Vapaaehtoiset mentorit on koulutettu tarjoamaan psykososiaalista tukea! Voit aloittaa keskustelun ja jutella sinulle ja mentorille sopivaan aikaan. Kiipeä oman vuoresi Ylitse toisen kanssa! Ylitseä voi käyttää tietokoneella tai puhelimeen ladattavalla sovelluksella. Ylitse Mentorapista saat pitkäaikaista ja anonyymia apua ja tukea ongelmaasi ihmisiltä, joilla on samanlaisia kokemuksia kuin sinulla.

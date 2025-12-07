@@ -1,0 +1,3 @@
+https://vslj.fi/service/tuetut-lomat-yhden-vanhemman-perheille/
+
+Toteutamme tuettuja lomia yhden vanhemman perheille eri lomajärjestöjen kanssa. Liiton yhteistyölomat ovat pääsääntöisesti kesällä ja vuodenvaiheessa. Lomille otetaan myös lapset mukaan. Toteutamme tuettuja lomia yhden vanhemman perheille eri lomajärjestöjen kanssa. Liiton yhteistyölomat ovat pääsääntöisesti kesällä ja vuodenvaiheessa.hyvinvointiloma,tuettu loma,kesälomaleiri,yksinhuoltaja

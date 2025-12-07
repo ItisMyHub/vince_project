@@ -1,0 +1,3 @@
+https://vslj.fi/service/lasten-harrastustoiminta/
+
+Lapset voivat harrastaa Panskisessa ohjaajien avustuksella esimerkiksi taiteita, leivontaa ja liikuntaa. Lasten avoimessa toiminnassa tehdään kaikkea kivaa myös lasten toiveiden perusteella. Ei tarvitse olla kokemusta eri harrastuksista. Jotkin kerhot vaativat ennakkoilmoittautumista. Lapset voivat harrastaa Panskiksessa ohjaajien avustuksella esimerkiksi taiteita, leivontaa ja liikuntaa.

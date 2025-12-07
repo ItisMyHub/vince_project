@@ -1,0 +1,3 @@
+https://vslj.fi/service/yhden-vanhemman-perheiden-nuorten-ja-vanhempien-yhteinen-toiminta/
+
+Nuorten ja vanhempien yhteisessä toiminnassa yhden vanhemman perheen nuori ja vanhempi pääsevät viettämään yhteistä aikaa kiinnostavan tekemisen parissa. Eri puolilla Suomea järjestetään muun muassa ruokaklubeja, joissa päästään tekemään ruokaa ja leipomaan. Lisäksi järjestämme nuorten ja vanhempien Perhettä etsimässä -rastiratapäiviä. Niissä nuoret ratkovat perheeseen liittyviä hauskoja tehtäviä vanhemman kanssa ja lopuksi menemme yhdessä ravintolaan syömään.Nuorten ja vanhempien yhteisessä toiminnassa nuori ja vanhempi pääsevät viettämään yhteistä aikaa kiinnostavan tekemisen parissa.

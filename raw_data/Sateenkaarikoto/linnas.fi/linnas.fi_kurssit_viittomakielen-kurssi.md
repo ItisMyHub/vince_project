@@ -1,0 +1,3 @@
+https://linnas.fi/kurssit/viittomakielen-kurssi/
+
+Ilmoittautumisen voi peruuttaa maksutta ilmoittautumisajan puitteissa. Sen jälkeen vähintään 24h ennen kurssin alkua tapahtuneesta peruutuksesta peritään 20% kurssimaksusta. Myöhemmin peruutetusta tai kokonaan peruuttamatta jätetystä ilmoittautumisesta perimme osallistumismaksun kokonaisuudessaan. Esittämällä sairauslomatodistuksen voimme jättää osallistumismaksun perimättä. Oikeus hinnanmuutoksiin pidätetään.

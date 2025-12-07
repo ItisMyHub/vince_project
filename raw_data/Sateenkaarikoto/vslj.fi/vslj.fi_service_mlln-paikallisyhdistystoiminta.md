@@ -1,0 +1,3 @@
+https://vslj.fi/service/mlln-paikallisyhdistystoiminta/
+
+Mannerheimin Lastensuojeluliiton paikallisyhdistystoiminta on pääosin vapaaehtoistoimin järjestettyä paikallistoimintaa. Yhdistykset tarjoavat paikallisille lapsille ja lapsiperheille muun muassa perhekahviloita, liikuntakerhoja, tapahtumia, vertaistukea ja muita kerhoja. Mannerheimin Lastensuojeluliiton paikallisyhdistystoiminta tarjoaa paikallista lapsille ja lapsiperheille suunnattua toimintaa.perhekahvilaohjaaja,paikallisyhdistystoimijoiden koulutukset,koulutukset paikallisyhdistyksille,paikallisyhdistys

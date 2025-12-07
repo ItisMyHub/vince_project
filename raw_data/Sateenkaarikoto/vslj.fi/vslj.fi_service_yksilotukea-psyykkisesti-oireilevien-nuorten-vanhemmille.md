@@ -1,0 +1,3 @@
+https://vslj.fi/service/yksilotukea-psyykkisesti-oireilevien-nuorten-vanhemmille/
+
+Vankemmaksi-hankkeen yksilökeskusteluissa kartoitetaan elämäntilannettasi sekä etsitään yhdessä keinoja jaksamisesi tueksi. Keskusteluissa käsitellään mm. vanhemmuuteen liittyviä haasteita ja tunteita. Työskentely perustuu itsetuntemuksen vahvistamiseen. Fokuksena on vanhemman oma hyvinvointi ja jaksaminen. Keskustelut toteutetaan joko verkon välityksellä tai paikan päällä Helsingissä/Tampereella (toteutustapa sovitaan erikseen työntekijän kanssa). Yksilökeskusteluiden jälkeen on mahdollisuus jatkaa vertaisryhmäprosessiin.Maksuttomia yksilökeskusteluja (1-3kpl) työntekijän kanssa psyykkisesti oireilevan 12-24-vuotiaan vanhemman jaksamisen tukemiseen.

@@ -1,0 +1,3 @@
+https://vslj.fi/service/yksilovertaistuki/
+
+Jos olet menettänyt lapsen tai lapsenlapsen tai jos olet menettänyt sisaruksen, voit saada vertaistukihenkilön, jolla on vastaava menetys. Ennen vertaistukisuhdetta suosittelemme sinulle tapaamisia kriisityöntekijän kanssa tai muuta ammatillista tukea. Feeniks-työn kriisityöntekijä tapaa sinut ennen vertaistukisuhteen aloitusta, ja etsii sinulle sopivan vertaistukihenkilön. Vertaistukisuhde on prosessi, jonka kesto on ennakolta sovittu, ja tapaamiset tapahtuvat MIELI Kriisikeskus Turun tiloissa. Vertaistuen tarkoituksena on vahvistaa toiveikkuuttasi ja auttaa sinua selviytymään menetyksesi kanssa.Yksilövertaistuki lapsen tai lapsenlapsen menettäneelle ja yksilövertaistuki aikuisille sisaruksen menettäneille

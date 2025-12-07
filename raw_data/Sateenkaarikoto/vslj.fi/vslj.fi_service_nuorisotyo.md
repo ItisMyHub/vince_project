@@ -1,0 +1,3 @@
+https://vslj.fi/service/nuorisotyo/
+
+Lyhytkestoinen ammatillinen ja luottamuksellinen keskustelutuki on tarkoitettua sinua mietityttävien kysymysten käsittelyyn. Voit varata ajan Tyttöjen Talolle tai tavata etänä. Tapaamisilla voit keskustella työntekijän kanssa mm. omaan arkeen, kasvuun, tulevaisuuteen tai ihmissuhteisiin liittyvistä asioista. Ammatillista ja yksilöllistä keskustelutukea 10-19-vuotiaille tytöille ja nuorille naisille Varissuon alueella.kulttuurisensitiivisyys,turvallisempi tila

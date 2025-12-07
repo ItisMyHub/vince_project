@@ -1,0 +1,5 @@
+https://vslj.fi/service/luottoa-arkeen-toiminta/
+
+Luottoa arkeen -toiminta tarjoaa sinulle matalan kynnyksen tukea, jos koet arjessasi haasteita taloudellisen tilanteen kiristymisen takia. Voit saada tukea talouden hallintaan, vanhemmuuteen, mielen hyvinvointiin ja elämänhallintaan arjessa. Sinun on mahdollista saada yksilöllistä palveluohjausta, niin paikan päällä kuin etänäkin. Yhteyden ottaminen tai toimintaan osallistuminen ei sido sinua mitenkään, eikä siitä synny mitään asiakkuutta.
+
+Luottoa arkeen -toiminta järjestää lisäksi monenlaisia maksuttomia tapahtumia liittyen talouden- ja arjenhallintaan, vanhemmuuteen ja hyvinvointiin. Voit saada myös tukea vanhemmuuteesi vanhemmille suunnattujen ABC-ryhmien ja Murkkufoorumit vertaisryhmien kautta.Luottoa arkeen -toiminta tarjoaa sinulle matalan kynnyksen tukea vanhemmuuteen, hyvinvointiin ja talouden hallintaan.arjen tuki,taloushuolet

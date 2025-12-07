@@ -1,0 +1,3 @@
+https://vslj.fi/service/eroryhma/
+
+Eroryhmät ovat ammattilaisen vetämiä eron vertaistukiryhmiä. Ryhmissä käsittelet eron tuomia tunteita, kohotat omaa itsetuntoa, ymmärrät eroon johtavia tekijöitä ja suuntaat katsetta tulevaisuuteen. Ryhmästä saat tukea myös eron jälkeiseen vanhemmuuteen. Vertaistuki eronneelle on hyvin tärkeää. Ryhmiä järjestämme etäyhteyksin.Ammattilaisten vetämät eroryhmät antavat tietoa ja tukea eron käsittelyyn.erovanhemmuus,ero,eroryhmä,tukea eroon

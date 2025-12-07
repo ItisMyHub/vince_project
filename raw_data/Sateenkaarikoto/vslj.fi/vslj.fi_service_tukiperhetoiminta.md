@@ -1,0 +1,5 @@
+https://vslj.fi/service/tukiperhetoiminta/
+
+Voit hakea tukiperhettä lapsellesi, jos luonnollinen tukiverkostonne on vähäinen, tarvitset tukea omaan jaksamiseesi tai elämäntilanteenne on muuten haastava. Tukiperhetoiminnan kautta lapsesi saa lisää turvallisia aikuisia elämäänsä ja perheenne tukiverkosto vahvistuu. Vanhempana saat aikaa levätä sekä kerätä voimia arjen pyörittämiseen. Tukiviikonloppuina tukiperheessä eletään aivan tavallista arkea ja panostetaan lapsen kanssa olemiseen, vuorovaikutukseen ja kohtaamiseen. Jos lapsesi tarvitsee tavallista enemmän tukea ja ohjausta esim. arjen toiminnoissa tai sosiaalisissa suhteissa, voimme tarjota hänelle ammatillisen tukiperheen. Ammatillisessa tukiperheessä toisella perheen aikuisella on soveltuva ammatillinen koulutus sekä kokemusta erityistä tukea tarvitsevan lapsen kanssa toimimisesta. SOS-Lapsikylä vastaa perheiden valmentamisesta tukiperheeksi ja ohjauksesta koko toiminnan ajan.
+
+Tukiperheeltä voit saada yökyläpaikan lapselle. Lapsi viettää keskimäärin viikonlopun kuussa tukiperheessä.tukiverkosto,tukiviikonloppu,tukiperhetoiminta

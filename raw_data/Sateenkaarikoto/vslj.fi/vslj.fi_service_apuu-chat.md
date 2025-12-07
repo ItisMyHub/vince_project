@@ -1,0 +1,3 @@
+https://vslj.fi/service/apuu-chat/
+
+Apuu-chat on valtakunnallinen keskustelualusta 7–15-vuotiaille lapsille. Apuu-chatissa voit keskustella nimettömänä, luottamuksellisesti ja ilmaiseksi. Chatissa sinulle vastaavat SOS-Lapsikylän ammattilaiset ja koulutetut vapaaehtoiset. Apuu-chatissa voit keskustella mistä tahansa mieltäsi painavusta aiheista, jotka saavat sinut tuntemaan olosi huolestuneeksi, turvattomaksi tai uhatuksi. Sinua kuunnellaan ja tuetaan sekä autetaan sinua löytämään tarvitsemasi avun. Apuu-chat on auki joka päivä klo 9–22.Apuu-chat on 7–15-vuotiaille tarkoitettu chat, jossa lapset ja nuoret voivat keskustella lastensuojeluun perehtyneiden aikuisten kanssa.

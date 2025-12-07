@@ -1,0 +1,3 @@
+https://vslj.fi/service/keskustelutuki-10-18-vuotiaille-nuorille/
+
+Ammatillinen ja luottamuksellinen keskusteluapu on lyhytkestoista. Tapaamiset järjestetään toiveesi mukaan Turussa Perhetalo Heidekenillä taikka etänä verkkoyhteydellä tai puhelimitse. Keskusteluaiheet voivat liittyä esimerkiksi kodin ristiriitoihin, mielialaan ja tunteiden ilmaisuun, vapaa-aikaan tai koulunkäyntiin. Voit osallistua tapaamisiin yksin, yhdessä toisen perheenjäsenen kanssa tai koko perheenä. Maksutonta keskusteluapua on saatavilla suomeksi, ruotsiksi tai englanniksi, mutta myös tulkkaus on mahdollista.Keskusteluaiheet voivat liittyä esimerkiksi kodin ristiriitoihin tai mielialaan. Voit valita tapaamiset Turussa tai etäyhteydellä.

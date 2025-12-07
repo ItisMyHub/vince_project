@@ -1,0 +1,3 @@
+https://vslj.fi/service/vertaistukipuhelin-uusperheille/
+
+Uusperheille tarkoitettu vertaistukipalvelu, jota annetaan etänä pääosin Teams-sovelluksen kautta. Voit jakaa luottamuksellisesti kokemuksia ja ajatuksia uusperheellisyydestä. Vertaispuhelimessa päivystää vaihtuva, itsekin uusperheellinen vertaisohjaaja. Maksuton vertaistukipalvelu, jota annetaan etänä pääosin Teams-sovelluksen kautta. Keskustelua uusperhe-elämän herättämistä tunteista ja kokemuksista.

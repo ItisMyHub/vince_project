@@ -1,0 +1,9 @@
+https://vslj.fi/service/nuorten-erovertaisryhmat/
+
+Nuorten erotyöpajat on suunnattu 13–17-vuotiaille nuorille, joiden vanhemmat ovat eronneet. Työpajat ovat vertaisryhmiä, joissa nuori pääsee jakamaan omia ajatuksiaan ja kokemuksiaan vanhempien erosta luovia menetelmiä hyödyntäen. Lisäksi nuori saa mahdollisuuden tutustua uusiin kavereihin, joilla on myös kokemus vanhempien erosta.
+
+Jokainen nuori on tervetullut työpajaan omana itsenään, eikä siellä tarvita mitään erityisiä taitoja. Riittää, että on kokemus vanhempien erosta, josta on voinut kulua lyhyempi tai pidempi aika.
+
+Ryhmässä jutellaan asioista, joita juuri kyseinen ryhmä haluaa käsitellä, kuten kahden kodin arki, riidat perheessä, uusperhekuviot ja ilon aiheet. Joskus vanhempien ero on voinut olla hyvä juttu, ja siitäkin voi puhua, miten kaikki on hyvin. Ryhmässä mietitään yhdessä tapoja, joilla vanhempien eroon liittyviä asioita voi käsitellä ja autetaan omilla kokemuksilla myös muita. Nuoret saavat hyödyntää itselleen mieluisia tapoja ilmaista ajatuksiaan (musiikki, piirtäminen, valokuvaaminen, kirjoittaminen, sarjakuvat jne.). Lisäksi pidetään hauskaa yhdessä ja syödään hyvin.
+
+Työpajassa saa päivittäin lounaan sekä työpajan päätteeksi osallistumistodistuksen, josta voi olla hyötyä opiskelu- tai työpaikkaa hakiessa. Työpajoja voidaan järjestää joko livenä tai verkossa. Verkkoryhmäläisille lähetetään yllätyspaketti, josta löytyy esim. välipaloja ja muuta mukavaa. Nuorten erovertaisryhmät on suunnattu nuorille, joiden vanhemmat ovat eronneet. Ryhmissä käsitellään eron aiheuttamia tunteita ja ajatuksia.eroauttaminen,eropalvelut,vanhempien ero,tukea nuorelle

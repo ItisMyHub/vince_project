@@ -1,0 +1,3 @@
+https://vslj.fi/service/unelmista-fi-harrastustukipalvelu/
+
+Unelmista.fi -palvelussa voi hakea harrastustukea, mikäli harrastuksen jatkaminen tai aloittaminen ei olisi muuten mahdollista. Palvelu on suunnattu ensisijaisesti harrastamattomille lapsille ja haastavassa taloudellisessa tilanteessa oleville perheille yhteistyökunnissa. Unelmista totta -harrastustuki on 7-17 -vuotiaiden lasten ohjatun harrastamisen tukimuoto.

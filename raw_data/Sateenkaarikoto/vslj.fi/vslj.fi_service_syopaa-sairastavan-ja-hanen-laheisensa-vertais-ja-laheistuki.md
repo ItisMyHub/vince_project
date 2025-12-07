@@ -1,0 +1,3 @@
+https://vslj.fi/service/syopaa-sairastavan-ja-hanen-laheisensa-vertais-ja-laheistuki/
+
+Vertais- ja läheistuki on vapaaehtoista ja vastavuoroista kokemusten vaihtoa sekä tukemista samassa elämäntilanteessa olevien kesken. Vertaistukija on itse sairastanut syövän. Läheistukijalla ei ole omakohtaista kokemusta syövän sairastamisesta, vaan hän on ollut sairastuneen läheisen tukena ja vierellä kulkijana. Vertais- ja läheistukijat ovat Lounais-Suomen Syöpäyhdistyksen kouluttamia vapaaehtoisia. Vertais- ja läheistukijat ovat koulutettuja vapaaehtoisia, jotka tukevat syöpää sairastavaa ja hänen läheistään.

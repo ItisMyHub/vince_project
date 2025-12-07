@@ -1,0 +1,3 @@
+https://vslj.fi/service/syopaa-sairastavien-nuorten-aikuisten-fuck-cancer-vertaiskahvit/
+
+Fuck Cancer -kahvit on tarkoitettu syöpää sairastaville ja sen sairastaneille noin 18–40-vuotiaille nuorille aikuisille ja heidän läheisilleen. Kahveilla pääset tapaamaan muita saman kokeneita nuoria aikuisia sekä kuulemaan ja jakamaan kokemuksia. Kahvituksia vetävät yhdistyksen työntekijä ja vertaistukihenkilö. Fuck Cancer -kahvit on tarkoitettu syöpää sairastaville ja sen sairastaneille noin 18–40-vuotiaille nuorille aikuisille ja heidän läheisilleen.

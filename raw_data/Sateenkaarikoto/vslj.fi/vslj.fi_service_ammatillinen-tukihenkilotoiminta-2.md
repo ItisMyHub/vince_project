@@ -1,0 +1,3 @@
+https://vslj.fi/service/ammatillinen-tukihenkilotoiminta-2/
+
+Ammatillisen tukihenkilötoiminnan tavoitteena on tukea lapsen/ nuoren kykyä sekä rohkeutta toimia omissa ympäristöissään, motivoida lasta/ nuorta ottamaan vastuuta itsestään sekä omien asioiden hoitamisesta. Toiminnan tavoitteena on myös vahvistaa lapsen / nuoren vahvuuksia sekä positiivista kuvaa itsestään. Ammatillinen tukihenkilö tapaa lasta/ nuorta sovitusti esim. kotona tai kodin ulkopuolella, lapsen/ nuoren omassa toimintaympäristössä, missä hän liikkuu ja viettää aikaansa. Tapaamisia voi olla esim. viikoittain tai pari kertaa kuukaudessa. ​Ammatillinen tukihenkilöltä saat ammatillista ohjausta ja turvallisen aikuisen tukea.ammatillinen tukihenkilö,tukitapaamiset

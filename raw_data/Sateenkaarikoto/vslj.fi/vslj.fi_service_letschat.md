@@ -1,0 +1,5 @@
+https://vslj.fi/service/letschat/
+
+Let’sChat on ukrainan kielinen keskustelualusta 7–17-vuotiaille lapsille. Let’sChatissa voit keskustella nimettömänä, luottamuksellisesti ja ilmaiseksi. Lapset, jotka puhuvat ukrainaa ja ovat Suomessa, Ukrainassa tai missä tahansa muussa maassa, voivat kirjoittaa chattiin. Chatissa lapsille vastaavat SOS-Lapsikylän ammattilaiset ja koulutetut vapaaehtoiset. Let’sChatissa lapset voivat keskustella mistä tahansa mieltään painavista aiheista, jotka saavat heidät tuntemaan olonsa ahdistuneeksi, turvattomaksi tai uhatuksi. Lapsia kuunnellaan ja tuetaan, ja chat-asiantuntijat auttavat heitä löytämään tarvitsemansa avun.
+
+Let’sChat on 7–17-vuotiaille tarkoitettu chat, jossa lapset ja nuoret voivat keskustella ukrainaksi lastensuojeluun perehtyneiden aikuisten kanssa.

@@ -1,0 +1,3 @@
+https://vslj.fi/service/lakiapuu/
+
+LakiApuusta saat tietoa omista oikeuksistasi ja ilmaista oikeudellista neuvontaa juristilta. Palvelu on suunnattu 12-17-vuotiaille. LakiApuun sosiaalisesta median tileiltä TikTokista ja Instagramista (@lakiapuu) löydät lisää tietoa oikeuksistasi ja neuvoja tilanteisiin, jossa oikeutesi eivät ole toteutuneet. LakiApuu tarjoaa maksutonta oikeudellista neuvontaa 12-17 -vuotiaille.

@@ -1,0 +1,3 @@
+https://vslj.fi/service/aikuiskaveritoiminta/
+
+Aikuiskaveritoiminnassa lapsi saa vapaaehtoisen aikuisen kaveriksi. Aikuiskaverin kanssa lapsi tekee yhdessä sovittuja asioita kuten ulkoilee, juttelee tai käy tutustumassa harrastuksiin. Kaveriparit tapaavat toisiaan 1-2 kertaa kuukaudessa. Lisäksi aikuiskaverin kanssa on mahdollista osallistua kaveriparien yhteisiin tapaamisiin. Toiminta sopii hyvin lapselle, joka kaipaa arkeensa aikuisen aikaa ja mielekästä tekemistä vapaa-ajalle.Aikuiskaveritoiminta on 7-12-vuotiaille lapsille tarkoitettua toimintaa. Lapsi saa vapaaehtoisen aikuiskaverin, jonka kanssa tehdään mukavia asioita.

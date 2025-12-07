@@ -1,0 +1,3 @@
+https://vslj.fi/service/ryhmatoimintaa-10-19-vuotiaille-tytoille-ja-nuorille-naisille-varissuolla/
+
+Ryhmätoiminta on 10-19-vuotiaille tytöille ja nuorille naisille sukupuolenmoninaisuus huomioiden Varissuon alueella. Osa ryhmistä on suljettuja ryhmiä, joihin sitoudut kävijänä koko toiminta-ajaksi ja osa on avoimia, joihin voit tulla valitsemillasi kerroilla. Ryhmätoiminnassa voit osallistua vertaistuelliseen, harraste- tai kasvuryhmään oman mielenkiinnon ja tarpeiden mukaan.kulttuurisensitiivisyys,turvallisempi tila

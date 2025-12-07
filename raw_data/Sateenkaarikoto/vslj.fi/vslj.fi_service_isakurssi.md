@@ -1,0 +1,5 @@
+https://vslj.fi/service/isakurssi/
+
+Kurssi koostuu neljästä jaksosta, jotka käsittelevät isyyttä perheenlisäyksen suunnittelusta aina vaiheeseen, jossa tulevasta isyydestä keskustellaan ystävien työkavereiden ja sukulaisten kanssa. Kurssi koostuu pääasiallisesti lyhyistä isyyttä käsittelevistä videoista sekä itsenäisistä tehtävistä. Tehtävät on suunniteltu siten, että niitä voi käydä läpi joko yksin tai puolison kanssa.
+
+Kurssille osallistuminen antaa sinulle uusia näkökulmia tulevaan isyyteen ja tarjoaa välineitä, joiden avulla voit pohtia tulevaa vanhemmuutta. Kurssin videot ja tehtävät tarjoavat vastauksia moniin isyyttä koskeviin kysymyksiin ja ne vaikuttavat myös myönteisesti niin isien hyvinvointiin kuin parisuhteeseenkin.Miessakit ry:n isäkurssi tarjoaa miehille tietoa isyydestä sekä isyyteen ja perheenlisäykseen valmistautumisesta.

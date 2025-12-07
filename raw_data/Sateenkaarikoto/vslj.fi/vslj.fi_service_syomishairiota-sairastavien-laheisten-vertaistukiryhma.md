@@ -1,0 +1,3 @@
+https://vslj.fi/service/syomishairiota-sairastavien-laheisten-vertaistukiryhma/
+
+Syömishäiriötä sairastavien läheisten vertaistukiryhmä on tarkoitettu kaikille, joiden läheinen sairastaa tai kärsii syömishäiriöoireista. Läheinen voi olla vanhempi, puoliso, sairastavan lapsi tai muu sairastavalle läheinen ihminen. Sairastavalla ei tarvitse olla diagnoosia. Ryhmä on maksuton eikä siihen tarvitse ilmoittautua.Syömishäiriötä sairastavien läheisten vertaistukiryhmä on avoin ryhmä kaikille, joiden läheinen sairastaa tai kärsii syömishäiriöoireista.

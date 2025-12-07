@@ -1,0 +1,5 @@
+https://vslj.fi/service/nuorten-kohtaamispaikka-toivo/
+
+Nuorten kohtaamispaikka Toivo on avoin kohtaamispaikka 17-28-vuotiaille nuorille aikuisille. Toivo tarjoaa mielekästä, aktivoivaa ja kuntoutumista tukevaa päivätoimintaa, apua ja ohjausta, muiden seuraa sekä paikan, jossa voi viettää aikaa.
+
+Toivossa voit osallistua kiinnostuksesi ja voimavarojesi mukaan monenlaiseen yhdessä tekemiseen, esim. kädentaitoihin, peleihin, pieniin keskusteluryhmiin, retkiin ja erilaisiin tutustumiskäynteihin. Lisäksi Toivossa voit lukea päivän lehden, nauttia kupin kahvia tai teetä, oleskella muiden seurassa ja nauttia keskusteluista. Toivoon voit tulla yksin, kaverin tai työntekijän kanssa. Ryhmälle voit varata ajan tutustumiskäynnille.17-28-vuotiaille nuorille aikuisille mielekästä, aktivoivaa ja kuntoutumista tukevaa päivätoimintaa.

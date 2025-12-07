@@ -1,0 +1,3 @@
+https://vslj.fi/service/domashka/
+
+Domashkan chatissa saat kahdenkeskistä apua koulutehtäviin tai voit jutella yleisesti koulunkäynnistä. Palvelu on suunnattu 1.–9.-luokkalaisille ja lukion opiskelijoille. Se on maksuton ja anonyymi. Domashka toimii ”Let’s chat” -chatin yhteydessä.Domashkan chatissa saat kahdenkeskistä apua koulutehtäviin ukrainaksi. 1.–9. -luokkalaisille, lukion opiskelijoille, maksuton ja anonyymi.

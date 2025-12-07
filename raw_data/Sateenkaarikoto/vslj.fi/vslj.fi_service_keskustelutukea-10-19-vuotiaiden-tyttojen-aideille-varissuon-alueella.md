@@ -1,0 +1,3 @@
+https://vslj.fi/service/keskustelutukea-10-19-vuotiaiden-tyttojen-aideille-varissuon-alueella/
+
+Ammatillista ja luottamuksellista keskustelutukea 10-19 -vuotiaiden tyttöjen äideille Varissuon alueella. Voit kertoa työntekijälle sinua mietityttäviä asioista sinulle varatulla yksilöajalla. Voit valita haluatko tavata työntekijän Turun Tyttöjen Talolla Varissuolla, omassa kodissasi tai tapaaminen voidaan järjestää etänä verkkoyhteydellä tai puhelimitse. Yhdessä työntekijän kanssa voit pohtia, mitkä asiat auttaisivat sinua parhaiten ja voit saada neuvoa sekä tukea omissa päätöksissäsi. Ammatillista ja luottamuksellista keskustelutukea 10-19 vuotiaiden tyttöjen äideille Varissuon alueella.kulttuurisensitiivisyys,turvallisempi tila

@@ -1,0 +1,3 @@
+https://vslj.fi/service/keskustelutukea-12-28-vuotiaille-pojillle-ja-nuorille-miehille-sukupuolen-moninaisuus-huomioiden/
+
+Lyhytkestoinen ammatillinen ja luottamuksellinen keskustelutuki on tarkoitettua sinua mietityttävien kysymysten käsittelyyn. Voit varata ajan Poikien Talolle tai tavata etänä. Tapaamisilla voit keskustella työntekijän kanssa mm. omaan arkeen, kasvuun, tulevaisuuteen tai ihmissuhteisiin liittyvistä asioista.Keskustelutukea 12-28-vuotiaille pojille ja nuorille miehille sukupuolenmoninaisuus huomioiden.turvallisempi tila,kulttuurisensitiivisyys

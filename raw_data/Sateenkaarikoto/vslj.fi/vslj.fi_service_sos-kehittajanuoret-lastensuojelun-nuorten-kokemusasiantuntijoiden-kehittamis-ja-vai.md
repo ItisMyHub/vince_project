@@ -1,0 +1,5 @@
+https://vslj.fi/service/sos-kehittajanuoret-lastensuojelun-nuorten-kokemusasiantuntijoiden-kehittamis-ja-vaikuttamisryhma/
+
+SOS-Kehittäjänuoret on noin 12–22-vuotiasta nuorista koostuva lastensuojelua kehittävä ryhmä, jonka toimintaa hallinnoi ja ohjaa SOS-Lapsikylä. Toimintaa on alueellisesti sekä valtakunnallisesti ja nuoret asuvat eri puolilla Suomea. Ryhmään kuuluu tällä hetkellä noin 60 nuorta. Ryhmät kokoontuvat aikuisten ohjaajien johdolla paikallisesti. Osana ryhmää pääset toiveidesi mukaan esim. suunnittelemaan toimintaa, kouluttamaan opiskelijoita sekä vaikuttamaan lastensuojeluun esim. tapaamalla päättäjiä ja kirjoittamalla esimerkiksi blogikirjoituksia tai julkaisemalla someen. Kaikki toiminta on vapaaehtoista. Saat osallistua niin paljon tai vähän kuin haluat ja toivomme, että koulunkäynti on aina etusijalla SOS-Kehittäjänuorten toimintaan nähden. Perehdytämme sinut toimintaan ja kokeneemmat nuoret sekä ammattilaiset ohjaajat ja vertaisohjaajat toimivat tukenasi.
+
+SOS-Kehittäjänuorten toimintaan osallistumalla 12–22-vuotiaat lastensuojelusta kokemusta omaavat nuoret ja sijaissisarukset kehittävät lastensuojelua.

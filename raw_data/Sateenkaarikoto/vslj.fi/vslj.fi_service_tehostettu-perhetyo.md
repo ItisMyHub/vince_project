@@ -1,0 +1,7 @@
+https://vslj.fi/service/tehostettu-perhetyo/
+
+Saat apua ja tukea tehostetusta perhetyötä, mikäli lapsella on erityistä suojelun tarvetta. Taustalla saattaa olla monia ja pitkäänkin jatkuneita tuen tarpeita, kuten perheen sisäisen vuorovaikutuksen ja kiintymyssuhteiden muodostumisen haasteita, perheristiriitoja, sosiaalisia käytöshäiriöitä, psyykkisiä tai neuropsykiatrisia pulmia tai äkillisiä kriisitilanteita.
+
+Tehostetussa perhetyössä työskennellään sekä perheenjäsenten että koko perheen kanssa. Vanhempana saat työskentelystä tukea kasvatustehtävässäsi. Tarvittaessa tehostettu perhetyö puuttuu lapsen tai vanhemman toimintaan silloin, kun se on lapsen suojelun näkökulmasta perusteltua. Arvioimme vanhempien voimavaroja yhdessä heidän kanssaan ja edistämme lapsen hyvinvointia ja turvallista arkea.
+
+Tehostettu perhetyö on yleensä viikoittaista, jopa useita kertoja viikossa tapahtuvaa ja kuukausia kestävää intensiivistä työskentelyä koko perheen kanssa. Tehostetun perhetyön taustatyöryhmänä toimii ympärivuorokautisen perhekuntoutuksen vahva moniammatillinen tiimi, joka on tarvittaessa käytettävissä työn reflektointiin ja konsultaatioon.Saat apua ja tukea tehostetusta perhetyötä mikäli lapsella on erityistä suojelun tarvetta. Edistämme yhdessä lapsen hyvinvointia ja turvallista arkea.

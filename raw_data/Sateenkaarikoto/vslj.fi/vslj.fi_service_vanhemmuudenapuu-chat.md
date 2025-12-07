@@ -1,0 +1,3 @@
+https://vslj.fi/service/vanhemmuudenapuu-chat/
+
+VanhemmuudenApuu-kokonaisuus tarjoaa keskustelutukea sekä tietoa ja palveluohjausta kaikille alle 18-vuotiaiden lasten vanhemmille. Arvostamme moninaista vanhemmuutta ja sitä kautta huolehdimme lasten oikeuksien toteutumisesta. VanhemmuudenApuu lisää vanhemman osallisuutta ja kuulluksi tulemisen kokemusta sekä vanhempien ja perheiden voimavaroja ja hyvinvointia. Palvelu madaltaa avun hakemisen kynnystä ja vähentää pelkoa leimaantumisesta koska keskustelemaan chattiin voi tulla anonyymisti. VanhemmuudenApuu tarjoaa vastavuoroista digitaalista tukea moninaisiin vanhemmuuden vaiheisiin.chat

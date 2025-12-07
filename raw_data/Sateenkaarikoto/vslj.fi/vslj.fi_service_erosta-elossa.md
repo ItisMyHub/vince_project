@@ -1,0 +1,7 @@
+https://vslj.fi/service/erosta-elossa/
+
+Erosta Elossa on valtakunnallinen palvelu, joka tukee ja opastaa miehiä ero-ongelmien käsittelyssä ja niistä selviämisessä. Erosta Elossa tarjoaa henkilökohtaista keskusteluapua, neuvontaa ja vertaistukea kysymyksiin, joita herää parisuhdekriisissä, varsinaisessa eroprosessissa ja eron jälkeisessä ajassa. Yhtenä keskeisenä tavoitteena on turvata lapsen ja isän suhteen jatkuminen myös eron jälkeen. Erosta Elossa tarjoaa henkilökohtaista keskustelutukea ja neuvontaa henkilökohtaisin tapaamisin, videovälitteisesti, sähköpostitse ja puhelimitse.
+
+Erosta Elossa kokoaa ja järjestää miesten eroryhmiä eri puolilla maata ja verkossa. Ammatillisesti ohjatussa vertaisryhmässä toisten miesten kokemusten kuuleminen auttaa oman eroprosessin jäsentämistä. Ryhmässä käsitellään eroon liittyviä tunteita sekä työskennellään muun muassa huoltajuus- ja tapaamiskysymysten parissa.
+
+Erosta Elossa järjestää myös tukihenkilötoimintaa. Itse eron kokenut, tehtäväänsä koulutettu Erosta Elossa -vertaistukihenkilö (EETU) kuuntelee, tukee eromiehen jaksamista sekä neuvoo käytännön asioissa. Tarvittaessa tukihenkilö voi olla mukana vanhemmuuteen liittyvissä sopimusneuvotteluissa.Erosta Elossa on valtakunnallinen palvelu, joka tukee ja opastaa miehiä ero-ongelmien käsittelyssä ja niistä selviämisessä.
