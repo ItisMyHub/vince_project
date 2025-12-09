@@ -1,102 +1,166 @@
 import os
 import json
 import hashlib
+import fitz  # PyMuPDF
 from bs4 import BeautifulSoup
-import fitz  # This is PyMuPDF
 
 # --- CONFIGURATION ---
-SOURCE_FOLDER = "./raw_data"  # Where your messy folders are
+SOURCE_FOLDER = "./raw_data"
 OUTPUT_FILE = "clean_corpus.json"
-MIN_WORD_COUNT = 20
-
-# --- HELPER FUNCTIONS ---
+MIN_WORD_COUNT = 20  # Skip very short files
 
 def get_file_hash(content):
-    """Creates a unique fingerprint for text. If two files have the same hash, they are duplicates."""
-    return hashlib.md5(content.encode('utf-8')).hexdigest()
+    """Generates an MD5 hash of the text content to detect duplicates."""
+    return hashlib.md5(content.encode("utf-8")).hexdigest()
 
-def read_html(filepath):
-    """Extracts text from HTML, ignoring scripts and styles."""
-    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-        soup = BeautifulSoup(f, 'html.parser')
-        # Kill all script and style elements
-        for script in soup(["script", "style", "nav", "footer"]):
-            script.decompose()
-        text = soup.get_text(separator=' ')
-        return " ".join(text.split()) # Clean up extra whitespace
-
-def read_pdf(filepath):
-    """Extracts text from PDF."""
-    text = ""
+def clean_html(file_path):
+    """Extracts text from HTML, removing scripts/styles/headers."""
     try:
-        doc = fitz.open(filepath)
-        for page in doc:
-            text += page.get_text()
+        with open(file_path, "r", encoding="utf-8") as f:
+            soup = BeautifulSoup(f, "html.parser")
+        
+        # We are removing javascript, css, navigation, footer, header
+        for tag in soup(["script", "style", "nav", "footer", "header"]):
+            tag.decompose()
+
+        text = soup.get_text(separator="\n")
+        
+        # Basic cleanup of extra whitespace
+        lines = (line.strip() for line in text.splitlines())
+        chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+        text = '\n'.join(chunk for chunk in chunks if chunk)
+        
+        return [{"text": text, "page": None}] # HTML has no pages
+        
     except Exception as e:
-        print(f"Error reading PDF {filepath}: {e}")
-    return " ".join(text.split())
+        print(f" Error reading HTML {file_path}: {e}")
+        return []
 
-def read_md(filepath):
-    """Reads Markdown (and treats it mostly like text)."""
-    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-        return f.read()
+def clean_pdf(file_path):
+    """Extracts text from PDF, keeping track of page numbers."""
+    pages_data = []
+    try:
+        doc = fitz.open(file_path)
+        for page_num, page in enumerate(doc):
+            text = page.get_text()
+            # clean up whitespace
+            text = " ".join(text.split())
+            if len(text) > 50:  # Skip mostly empty pages
+                pages_data.append({
+                    "text": text,
+                    "page": page_num + 1  # Humans count from 1
+                })
+        doc.close()
+    except Exception as e:
+        print(f" Error reading PDF {file_path}: {e}")
+    return pages_data
 
-# --- MAIN EXECUTION ---
+def clean_markdown(file_path):
+    """Reads Markdown files."""
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            text = f.read()
+        return [{"text": text, "page": None}]
+    except Exception as e:
+        print(f" Error reading MD {file_path}: {e}")
+        return []
+
+def extract_metadata_from_path(file_path):
+    """
+    Infers 'Country' and 'Partner' from the folder structure.
+    Logic:
+    - Country = The folder directly inside 'raw_data' (e.g., Finland)
+    - Partner = The folder directly containing the file (e.g., TUAS)
+    """
+    norm_path = os.path.normpath(file_path)
+    parts = norm_path.split(os.sep)
+    
+    country = "unknown"
+    partner = "general"
+
+    try:
+        if "raw_data" in parts:
+            idx = parts.index("raw_data")
+            
+            # 1. Country is the first folder after raw_data
+            if len(parts) > idx + 1:
+                country = parts[idx + 1].lower()
+            
+            # 2. Partner is the immediate parent folder of the file
+            # content is at parts[-1], so parent is parts[-2]
+            if len(parts) > 1:
+                partner = parts[-2].lower()
+                
+            # Edge case: if the file is directly inside raw_data/Finland
+            if partner == country:
+                partner = "general"
+
+    except Exception:
+        pass
+        
+    return country, partner
 
 def main():
-    print("🧹 The Janitor is starting...")
-    
-    processed_data = []
+    if not os.path.exists(SOURCE_FOLDER):
+        print(f" Source folder '{SOURCE_FOLDER}' not found.")
+        return
+
+    corpus = []
     seen_hashes = set()
     
-    # file_counter = 0
+    print(" Starting cleanup and metadata extraction...")
 
     for root, dirs, files in os.walk(SOURCE_FOLDER):
-        for file in files:
-            file_path = os.path.join(root, file)
-            content = ""
-            file_type = ""
-
-            # 1. Identify and Read
-            if file.lower().endswith(".html"):
-                content = read_html(file_path)
-                file_type = "html"
-            elif file.lower().endswith(".pdf"):
-                content = read_pdf(file_path)
-                file_type = "pdf"
-            elif file.lower().endswith(".md"):
-                content = read_md(file_path)
-                file_type = "markdown"
-            else:
-                continue # Skip weird files
-
-            # 2. Filter Garbage (Too short?)
-            word_count = len(content.split())
-            if word_count < MIN_WORD_COUNT:
-                print(f"🗑️ Trash found ({word_count} words): {file}")
-                continue
-
-            # 3. Filter Duplicates (Already seen?)
-            content_hash = get_file_hash(content)
-            if content_hash in seen_hashes:
-                print(f"👯 Duplicate found: {file}")
-                continue
+        for filename in files:
+            file_path = os.path.join(root, filename)
+            ext = filename.lower().split('.')[-1]
             
-            # 4. Keep it!
-            seen_hashes.add(content_hash)
-            processed_data.append({
-                "filename": file,
-                "filepath": file_path,
-                "language": "unknown", # You can add a language detector lib later if needed
-                "type": file_type,
-                "content": content
-            })
-            # file_counter += 1
+            # 1. Determine Extraction Method
+            extracted_pages = []
+            if ext == "html":
+                extracted_pages = clean_html(file_path)
+            elif ext == "pdf":
+                extracted_pages = clean_pdf(file_path)
+            elif ext in ["md", "txt"]:
+                extracted_pages = clean_markdown(file_path)
+            else:
+                continue 
 
-    # 5. Save to JSON
-    print(f"✨ Cleaning complete! Saved {len(processed_data)} documents.")
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(processed_data, f, ensure_ascii=False, indent=4)
+            # 2. Extract Metadata from Folder Structure
+            country, partner = extract_metadata_from_path(file_path)
+
+            # 3. Process content
+            for item in extracted_pages:
+                text_content = item["text"]
+                page_num = item["page"]
+
+                if len(text_content.split()) < MIN_WORD_COUNT:
+                    continue
+
+                content_hash = get_file_hash(text_content)
+                if content_hash in seen_hashes:
+                    continue
+                seen_hashes.add(content_hash)
+
+                corpus.append({
+                    "filename": filename,
+                    "filepath": file_path,
+                    "type": ext,
+                    "country": country,
+                    "partner": partner,
+                    "page": page_num,
+                    "content": text_content
+                })
+
+    # Save
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(corpus, f, indent=4, ensure_ascii=False)
+    
+    print(f" Cleaned corpus saved to {OUTPUT_FILE} with {len(corpus)} entries.")
+    if corpus:
+        # Show example to verify your tags
+        example = corpus[-1]
+        print(f"Example Check -> File: {example['filename']} | Country: {example['country']} | Partner: {example['partner']}")
 
 if __name__ == "__main__":
     main()
