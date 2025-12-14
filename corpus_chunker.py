@@ -47,6 +47,7 @@ def main():
             "_region": entry.get("_region", entry.get("region", "unknown")),
             "_city": entry.get("_city", entry.get("city", "unknown")),
             "_partner": entry.get("_partner", entry.get("partner", "general")),
+            "_topics": entry.get("_topics", []),
             "page": entry.get("page")
         }
 

@@ -35,6 +35,7 @@ def load_chunks(path):
             "_region": entry.get("_region", entry.get("region", "unknown")),
             "_city": entry.get("_city", entry.get("city", "unknown")),
             "_partner": entry.get("_partner", entry.get("partner", "general")),
+            "_topics": topics_str,
             "page": str(entry.get("page")) if entry.get("page") else "0"
         }
         metadatas.append(meta)
