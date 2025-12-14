@@ -23,6 +23,9 @@ def load_chunks(path):
         ids.append(entry.get("id"))
         docs.append(entry.get("content"))
 
+        topics = entry.get("_topics", [])
+        topics_str = json.dumps(topics)
+
         meta = {
             "filename": entry.get("filename"),
             "type": entry.get("type"),
