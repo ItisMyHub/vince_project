@@ -3,7 +3,7 @@ import requests
 from urllib.parse import urlparse
 
 # --- CONFIGURATION ---
-# List the specific URLs to teach the agent.
+# Listing the specific URLs to teach the agent.
 TARGET_URLS = [
     "https://migri.fi/en/home/",
     "https://www.infofinland.fi/",
@@ -14,7 +14,7 @@ TARGET_URLS = [
 OUTPUT_FOLDER = "./raw_data"
 
 def main():
-    # We are ensuring the output folder exists
+    # Ensuring the output folder exists
     if not os.path.exists(OUTPUT_FOLDER):
         os.makedirs(OUTPUT_FOLDER)
 
@@ -23,11 +23,11 @@ def main():
     for url in TARGET_URLS:
         try:
             print(f" Downloading: {url}")
-            # We are fetching the page content
+            # Fetching the page content
             response = requests.get(url)
             response.raise_for_status() # Check for errors (like 404 Not Found)
 
-            # We are creating a valid filename from the URL
+            # Creating a valid filename from the URL
             # e.g. "fastapi.tiangolo.com/tutorial/" -> "fastapi_tiangolo_com_tutorial_.html"
             parsed_url = urlparse(url)
             filename = parsed_url.netloc + parsed_url.path
@@ -35,7 +35,7 @@ def main():
             
             save_path = os.path.join(OUTPUT_FOLDER, filename)
 
-            # We are saving the raw HTML directly to the raw_data folder
+            # Saving the raw HTML directly to the raw_data folder
             with open(save_path, "w", encoding="utf-8") as f:
                 f.write(response.text)
             
