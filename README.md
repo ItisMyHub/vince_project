@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) system designed to assist international s
 - [API]
 - [Known Limitations]
 - [Future Improvements]
-- [License]
+
 
 ---
 
