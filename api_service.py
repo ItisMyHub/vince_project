@@ -128,17 +128,16 @@ def generate_answer(question: str, docs: list, metas: list) -> str:
         context_parts. append(f"[SOURCE_{i+1}]: {doc}")
     context = "\n\n".join(context_parts)
     
-    prompt = f"""You are a helpful assistant for international students in Finland. 
-Answer the question based ONLY on the provided sources. 
-Include source citations like [SOURCE_1], [SOURCE_2] in your answer when you use information from that source. 
-Be concise and helpful.  If the sources don't contain relevant information, say so. 
+    prompt = f"""Answer the question using ONLY information from the provided SOURCES.
+    Cite as [SOURCE_1], [SOURCE_2] in your answer when you use information from that source.
+    The ansewer must be pulled from the cited sources. 
+   
+ SOURCES:
+ {context}
 
-SOURCES:
-{context}
+ QUESTION: {question}
 
-QUESTION: {question}
-
-ANSWER:"""
+ ANSWER:"""
 
     try:
         response = requests.post(
@@ -146,9 +145,10 @@ ANSWER:"""
             json={
                 "model": OLLAMA_MODEL,
                 "prompt": prompt,
-                "stream": False
+                "stream": False,
+                "keep_alive": "60m"
             },
-            timeout=120
+            timeout=180
         )
         response.raise_for_status()
         return response.json().get("response", "Error generating response.")
