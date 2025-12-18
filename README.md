@@ -1,4 +1,4 @@
-# Vince_Agent - RAG Pipeline for International Students in Finland
+# RAG Pipeline for Vince_Agent
 
 A Retrieval-Augmented Generation (RAG) system designed to assist international students in Finland by providing accurate, source-cited answers to questions about student life, residence permits, housing, and other related topics.
 
@@ -22,7 +22,7 @@ A Retrieval-Augmented Generation (RAG) system designed to assist international s
 
 The Vince Agent is a locally-hosted RAG system that: 
 
-1. **Retrieves** relevant information from a curated corpus of documents about Finland
+1. **Retrieves** relevant information from a curated corpus of documents from vector space
 2. **Augments** user queries with this contextual information
 3. **Generates** accurate, source-cited responses using a local LLM
 **
