@@ -1,0 +1,34 @@
+# YOLO Dataset Configuration – Water Meter Digit Detection
+# -----------------------------------------------------------------
+# Label schema
+# -----------------------------------------------------------------
+# Each class name follows the pattern  digit_<N>  where N is 0-9.
+#
+# Rounding rule (water-meter convention):
+#   The physical dial may show a fractional value between two digits.
+#   The annotation uses  floor(visible_value):
+#     0.0 – 0.99  →  digit_0
+#     1.0 – 1.99  →  digit_1
+#     …
+#     9.0 – 9.99  →  digit_9
+#
+# Annotation format: YOLO (one .txt per image)
+#   <class_id> <cx> <cy> <width> <height>   (all values normalised 0-1)
+
+path: ..                    # root relative to this file
+train: cropped_images       # images folder (symlink or copy your split here)
+val:   cropped_images       # update with a dedicated validation split if available
+
+nc: 10                      # number of classes
+
+names:
+  0: digit_0
+  1: digit_1
+  2: digit_2
+  3: digit_3
+  4: digit_4
+  5: digit_5
+  6: digit_6
+  7: digit_7
+  8: digit_8
+  9: digit_9

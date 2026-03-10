@@ -1,4 +1,6 @@
 torch==2.2.2
+opencv-python-headless==4.10.0.84
+easyocr==1.7.2
 sentence-transformers==2.6.1
 transformers==4.42.4
 accelerate==0.30.1
