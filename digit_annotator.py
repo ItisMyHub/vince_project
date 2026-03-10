@@ -4,6 +4,15 @@ digit_annotator.py – Water Meter Digit Annotator
 =================================================
 Detects and annotates individual digits (0-9) in cropped water meter images.
 
+Background
+----------
+These images are photographs of a single water meter dial taken while water is
+running, used to measure leakage or consumption rate.  The dial has a red
+teardrop-shaped pointer.  The fat end (counterweight) points away from the
+reading; the thin end (needle tip) points at the digit being read (0 – 9).
+Pointers that are past 0 but have not yet reached 1 are class digit_0;
+all ten classes each occupy a 36° sector.
+
 Two operating modes
 -------------------
   dial  (default)  – For circular gauge images where a red needle points to
@@ -27,7 +36,7 @@ Rounding rule (both modes)
 --------------------------
   The observed value may be fractional (needle mid-way between digits).
   Rule: annotated digit = floor(observed_value)
-    0.0 – 0.99  →  digit_0
+    0.0 – 0.99  →  digit_0  (pointer past 0, not yet at 1 – filed separately)
     1.0 – 1.99  →  digit_1
     …
     9.0 – 9.99  →  digit_9
@@ -39,10 +48,27 @@ Output formats
   COCO  : single JSON file  <output>/annotations_coco.json
   Debug : annotated images  <output>/annotated/<image_name>
 
+Organised output (--organize flag)
+-----------------------------------
+  When --organize is used, every annotated image and its YOLO label are also
+  copied into per-digit subfolders so that each class can be inspected at a
+  glance.  digit_0 is especially important because those images show a pointer
+  past 0 but not yet at 1, and are "filed separately" from other classes:
+
+    <output>/sorted/digit_0/          ← pointer in [0°, 36°) – filed separately
+        cropped_*.jpg                 ← annotated debug image
+        labels/cropped_*.txt          ← YOLO label
+    <output>/sorted/digit_1/
+        …
+    <output>/sorted/digit_9/
+
 Usage
 -----
   # Dial mode – circular gauge images (default):
   python digit_annotator.py --input cropped_images --output annotations
+
+  # Dial mode with per-digit organised output:
+  python digit_annotator.py --input cropped_images --output annotations --organize
 
   # Text mode – images with printed digit characters:
   python digit_annotator.py --input cropped_images --output annotations --mode text
@@ -563,6 +589,16 @@ def parse_args(argv=None) -> argparse.Namespace:
         ),
     )
     parser.add_argument(
+        "--organize",
+        action="store_true",
+        default=False,
+        help=(
+            "Also copy each annotated image and its YOLO label into a per-digit "
+            "subfolder under <output>/sorted/digit_N/.  digit_0 is filed separately "
+            "from the other classes (pointer past 0, not yet at 1)."
+        ),
+    )
+    parser.add_argument(
         "--no-ocr",
         action="store_true",
         default=False,
@@ -575,6 +611,59 @@ def parse_args(argv=None) -> argparse.Namespace:
         help="Write annotated images only; do NOT write YOLO label files or COCO JSON.",
     )
     return parser.parse_args(argv)
+
+
+# ---------------------------------------------------------------------------
+# Per-digit organised output helper
+# ---------------------------------------------------------------------------
+
+def organise_by_digit(
+    all_annotations: list[dict],
+    output_dir: Path,
+) -> None:
+    """
+    Copy annotated images and YOLO labels into per-digit subfolders:
+
+        <output_dir>/sorted/digit_0/            ← filed separately
+            <image_name>.jpg
+            labels/<image_name>.txt
+        <output_dir>/sorted/digit_1/
+            ...
+
+    digit_0 is highlighted as "filed separately" because those images show a
+    pointer that is past 0 but has not yet reached 1 – an important edge case
+    for water-meter reading.
+    """
+    import shutil
+
+    annotated_src = output_dir / "annotated"
+    labels_src = output_dir / "labels"
+
+    for ann in all_annotations:
+        class_id = ann.get("class_id")
+        if class_id is None:
+            continue
+
+        label = CLASS_NAMES[class_id]
+        filename = ann["file"]
+        stem = Path(filename).stem
+
+        # Destination folder for this digit class
+        digit_dir = output_dir / "sorted" / label
+        digit_dir.mkdir(parents=True, exist_ok=True)
+
+        # -- annotated image --
+        src_img = annotated_src / filename
+        if src_img.exists():
+            shutil.copy2(str(src_img), str(digit_dir / filename))
+
+        # -- YOLO label --
+        label_filename = stem + ".txt"
+        src_lbl = labels_src / label_filename
+        if src_lbl.exists():
+            lbl_out_dir = digit_dir / "labels"
+            lbl_out_dir.mkdir(exist_ok=True)
+            shutil.copy2(str(src_lbl), str(lbl_out_dir / label_filename))
 
 
 def main(argv=None) -> int:
@@ -639,6 +728,11 @@ def main(argv=None) -> int:
 
     print(f"Annotated images  : {output_dir / 'annotated'}/")
 
+    if args.organize and not args.visualise_only:
+        organise_by_digit(all_annotations, output_dir)
+        print(f"Organised by digit: {output_dir / 'sorted'}/")
+        print(f"  digit_0/  ← 'filed separately' (pointer past 0, not yet at 1)")
+
     labelled = sum(1 for a in all_annotations if a.get("class_id") is not None)
     print(f"\nSummary  :  {len(image_sizes)} images processed")
     print(f"           {labelled} annotations written")
@@ -648,7 +742,8 @@ def main(argv=None) -> int:
     counts = Counter(a["label"] for a in all_annotations)
     for lbl in CLASS_NAMES:
         n = counts.get(lbl, 0)
-        print(f"  {lbl}: {n}")
+        marker = "  ← filed separately" if lbl == "digit_0" else ""
+        print(f"  {lbl}: {n}{marker}")
 
     return 0
 
